@@ -7,7 +7,7 @@ public class StringOperations {
     private StringOperations() {}
     
     /*
-    This method is separate the file name and its extension.
+    This method separates the file name and its extension.
     Returns in a two-element array: first element is the filename and the second one is the extension.
      */
     public static String[] fileNameSeparator (String fileName) {
