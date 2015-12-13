@@ -1,0 +1,12 @@
+A szoftver csoportos fájl átnevezésre alkalmas. Ez a funkció a 'File renaming' fül alatt érhető el. Ki kell jelölni a fájlt vagy fájlokat a szabványos módon egérrel, billentyűzettel. A Ctrl vagy Shift billentyűk lenyomásával és az egér együttes használatával egyszerre több fájl is kijelölhető. Ctrl + A billentyűkomybinációval az adott mappa minden eleme kijelölődik. Ha végeztünk a kijelöléssel a 'Rename' gombra kattintással hajtható végre az átnevezés. Az átnevezés a 'Settings->Profiles' fül alatt található beállítások alapján fog végrehajtódni.
+
+A 'Settings->Profiles' fül alatt megadhatók bizonyos beállítások melyek alapján végzi az átnevezést a szoftver. Alapvetően egy azonos, csoportos név és hozzá egy megadott hosszúságú számláló minta ami növekszik megadott kezdő sorszámtól. Ezáltal a szofver kiválóan alkalmas valamilyen szempont alapján összetartozó képek, videók csoportos átnevezésére ahol a fájlnevek csak egy sorszámban különböznek.
+
+Ha a megadott mappában az átnevezés során olyan fájl található melynek neve megegyezik az éppen átnevezendő fájl új nevével, akkor ez a fájl ki lesz hagyva az átnevezésből.
+
+A fájlok kijelölését segítik a fájl szűrők. A 'Settings->Filters' fül alatt megadhatók új szűrők. Szűrő használatával csak a megadott kiterjesztésű fájlok láthatóak. A beállított szűrők a 'Files of type' legördülő menüvel használhatóak.
+
+
+File Renamer 1.0
+Gábor Balázs, Tiszaújváros
+2014
